@@ -19,13 +19,14 @@ A modern, responsive news application that fetches the latest news articles usin
 
 ## Live Demo
 
-[View Live Demo](https://yourusername.github.io/news-app)
+[View Live Demo](https://rahbarpathan.github.io/NewsApp-A-News-Streaming-Website-/)
 
 ## Setup Instructions
 
 1. Clone the repository:
+
 ```bash
-git clone https://github.com/yourusername/news-app.git
+git clone https://github.com/rahbarpathan/NewsApp-A-News-Streaming-Website-.git
 ```
 
 2. Open `index.html` in your browser or use a live server
